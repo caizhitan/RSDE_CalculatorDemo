@@ -6,17 +6,17 @@ import {
   Navigate,
 } from "react-router-dom";
 
-import About from "./Layout/About";
-import Admin from "./Layout/Admin";
-import Calculator from "./Layout/Calculator";
-import Login from "./Layout/Login";
-import Calculator2 from "./Layout/Calculator2";
+import About from "./Pages/About";
+import Admin from "./Pages/Admin";
+import Calculator from "./Pages/Calculator";
+import Login from "./Pages/Login";
+import Calculator2 from "./Pages/Calculator2";
 import ProtectedRoute from "./Component/ProtectedRoute";
 
 import ErrorPage from "./Component/ErrorPage";
 import { LoginProvider } from "./Context/LoginContext";
-import Redirect from "./Layout/Redirect";
-import Home2 from "./Layout/Home2";
+import Redirect from "./Pages/Redirect";
+import Home2 from "./Pages/Home2";
 
 
 const App = () => {

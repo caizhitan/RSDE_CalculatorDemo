@@ -5,7 +5,7 @@ const centerStyle: React.CSSProperties = {
   display: "flex",
   justifyContent: "center",
   alignItems: "center",
-  height: "100vh", // Adjust this to fit your layout
+  height: "100vh", // Adjust this to fit your Pages
 };
 
 const duckStyle: React.CSSProperties = {

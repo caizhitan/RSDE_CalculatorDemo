@@ -8,7 +8,7 @@ const ErrorPage = () =>{
                 flexDirection: "column",
                 alignItems: "center",
                 justifyContent: "center",
-                height: "90vh", // Adjust this to fit your layout
+                height: "90vh", // Adjust this to fit your Pages
               }}
             >
               <img
