@@ -18,7 +18,8 @@ const Home = () => {
   const getFiles = async () => {
     try {
       const result = await GetAllFiles();
-      setData(result);
+      
+      setData(Array.isArray(result) ? result : []);
     } catch (error) {
       console.error('Error fetching files:', error);
     }
