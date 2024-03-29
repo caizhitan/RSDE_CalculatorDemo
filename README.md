@@ -34,16 +34,41 @@ Our Front-End is built using TypeScript & React. With Sequalize an Object-Relati
 
 ## Demo of RSDE Portal
 > [!IMPORTANT]
-> This is a `demo-branch` so it does not have all features/functionalities from Production. However examples below will mimick `Production` scenarios. 
+> `demo-branch` does not have all functionalities of `Production`. However examples below will mimick `Production` scenarios. 
+
+
+### Authentication
+
+Users are able to log in using the company's Microsoft account which will also differentiate between an Admin or General User.[^1]
 
 ### Admin Features
 
 
-
-The Admin is able to upload files onto the portal for all other users and admins to view[^1].
+The Admin is able to upload files onto the portal for all other users and admins to view.[^2]
 
 ### Calculator
 
+There are currently two calculators, this is the same on `Production`. However there are plans to add other calculators for the RSDE Staff members.
 
+### Form Validations
 
-[^1]: File Viewer works however it does not upload to AWS S3 Bucket like the Production branch.
+ - **Not all Values are pesent**
+
+    <img src="https://github.com/caizhitan/RSDE_FE_Demo/assets/150103035/dcfd3f03-2bd4-4a2c-b9bf-21ad9f1c1f05" width="250" alt="IMG_2428">
+
+    The Calculate Button remains Grey and unable to calculate.
+
+- **All Values are present**
+
+   <img src="https://github.com/caizhitan/RSDE_FE_Demo/assets/150103035/ba7b538b-478c-4f08-b58d-6c934afb8cf3" width="250" alt="IMG_2426">
+
+   The Calculate Button will turn Grey -> Blue and be able to calculate.
+
+- **Alphabetical Values**
+   
+   <img src="https://github.com/caizhitan/RSDE_FE_Demo/assets/150103035/996c7642-e916-4091-9fde-2839fc001d6c" width="250" alt="IMG_2427">
+
+   The inputfield will prompt the user to enter a numerical value.
+
+[^1]: There is no user authentication for this `demo-branch`.
+[^2]: Files do not upload to LTA's AWS S3 Bucket unlike the `Production` branch.
