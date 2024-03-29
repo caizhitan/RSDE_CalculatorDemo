@@ -22,15 +22,24 @@ Our Front-End is built using TypeScript & React. With Sequalize an Object-Relati
 
 ## Functionality
 
+### Authentication:
+- Users can securely log in using MSAL ([Microsoft Authentication Library](https://learn.microsoft.com/en-us/entra/identity-platform/msal-overview)).
+  
+### Admin Features:
+- Admins have the capability to upload files. These files become available for all users to view and download, facilitating easy sharing and access to resources.
 
-
+### General User Features:
+- Both admins and users have access to calculator features, providing essential tools directly within the application.
 
 
 ## Demo of RSDE Portal
 > [!IMPORTANT]
-> This is a `demo-branch` so it does not have all features/functionalities from Production. 
+> This is a `demo-branch` so it does not have all features/functionalities from Production. However examples below will mimick `Production` scenarios. 
 
-### File Viewer
+### Admin Features
+
+
+
 The Admin is able to upload files onto the portal for all other users and admins to view[^1].
 
 ### Calculator
