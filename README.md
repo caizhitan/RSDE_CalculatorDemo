@@ -75,7 +75,7 @@ Users are able to log in using the company's Microsoft account which will also d
   
 - **Deleting Files**
   
-  The Admin is able to delete files onto the portal for all other users and admins to view.[^2]
+  The Admin is able to delete files onto the portal for all other users and admins to view.[^3]
 
   <details>
   <summary>View Screenshot</summary>
@@ -245,4 +245,5 @@ There are currently two calculators, this is the same on `Production`. However t
 
 
 [^1]: There is no user authentication for this `demo-branch`. In `Production`, LTA logo will appear on MSAL Page instead.
-[^2]: Files do not upload to LTA's AWS S3 Bucket unlike the `Production` branch.
+[^2]: Files do not upload on to LTA's AWS S3 Bucket unlike the `Production` branch.
+[^3]: Files do not delete on LTA's AWS S3 Bucket unlike the `Production` branch.
