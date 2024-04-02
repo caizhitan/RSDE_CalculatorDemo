@@ -1,10 +1,12 @@
 # RSDE Portal Frontend
 
+<img src="https://github.com/caizhitan/RSDE_Demo_FE/assets/150103035/3c1027f0-b491-4c83-89fc-ddb489be1b48" width="250" alt="IMG_Login">
+
 This Portal contains 2 components.
 
 - File Viewer
 - Calculators
-
+  
 ## Functionality
 
 ### Authentication:
