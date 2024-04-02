@@ -22,14 +22,56 @@ This Portal contains 2 components.
 > `demo-branch` does not contain all features. However examples below will try to mimick `Production` branch. 
 
 
-### Authentication
+## Authentication
 
 Users are able to log in using the company's Microsoft account which will also differentiate between an Admin or General User.[^1]
 
-### Admin Features
+## Admin Features
 
+- **Uploading Files**
+  
+  The Admin is able to upload files onto the portal for all other users and admins to view.[^2]
 
-The Admin is able to upload files onto the portal for all other users and admins to view.[^2]
+  <details>
+  <summary>View Screenshot</summary>
+  <br>
+  <img src="https://github.com/caizhitan/RSDE_Demo_FE/assets/150103035/ed153270-f024-41ac-a255-61dda436e088" width="250" alt="IMG_2444">
+  </details>
+  
+- **Uploading Files Progress**
+
+  When files are uploaded sucessfully, a popup will appear.
+
+  <details>
+  <summary>View Screenshot</summary>
+  <br>
+  <img src="https://github.com/caizhitan/RSDE_Demo_FE/assets/150103035/0742d54b-021f-4d0d-9dd0-880dd9e2192d" width="250" alt="IMG_2445">
+  </details>
+  
+- **Deleting Files**
+  
+  The Admin is able to delete files onto the portal for all other users and admins to view.[^2]
+
+  <details>
+  <summary>View Screenshot</summary>
+  <br>
+  <img src="https://github.com/caizhitan/RSDE_Demo_FE/assets/150103035/28e79b22-e181-4f84-9153-276486cd4071" width="250" alt="IMG_2446">
+  </details>
+
+## General User Features
+
+### File Viewer
+
+- **No files on Cloud**
+  
+  No Files Available image shows on user interface.
+  
+  <details>
+  <summary>View Screenshot</summary>
+  <br>
+  <img src="https://github.com/caizhitan/RSDE_Demo_FE/assets/150103035/041d8f40-f385-4253-a691-58dd89cbcbb8" width="250" alt="IMG_2443">
+  </details>
+
 
 ### Burger Menu
 
@@ -62,9 +104,9 @@ The Admin is able to upload files onto the portal for all other users and admins
   </details>
 
 
-### RS Centre Over Turning Calculator**
+### RS Centre Over Turning Calculator
 
-- **Calculator User Interface
+- **Calculator User Interface**
   <details>
   <summary>View Screenshot</summary>
   <br>
@@ -127,10 +169,6 @@ There are currently two calculators, this is the same on `Production`. However t
   <img src="https://github.com/caizhitan/RSDE_Demo_FE/assets/150103035/9bcd33c4-cafa-496c-acab-c3153bacc958" width="250" alt="IMG_2500">
   </details>
 
-![IMG_2443](https://github.com/caizhitan/RSDE_Demo_FE/assets/150103035/041d8f40-f385-4253-a691-58dd89cbcbb8)
-![IMG_2444](https://github.com/caizhitan/RSDE_Demo_FE/assets/150103035/ed153270-f024-41ac-a255-61dda436e088)
-![IMG_2445](https://github.com/caizhitan/RSDE_Demo_FE/assets/150103035/0742d54b-021f-4d0d-9dd0-880dd9e2192d)
-![IMG_2446](https://github.com/caizhitan/RSDE_Demo_FE/assets/150103035/28e79b22-e181-4f84-9153-276486cd4071)
 
 
 
