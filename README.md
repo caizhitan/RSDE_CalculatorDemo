@@ -109,9 +109,8 @@ Users are able to log in using the company's Microsoft account which will also d
   <details>
   <summary>View Screenshot</summary>
   <br>
-  <img src="" width="250" alt="IMG_2448">
+  <img src="https://github.com/caizhitan/RSDE_Demo_FE/assets/150103035/5a1a6e61-d106-47bf-ad65-f5fbc3c44298" width="250" alt="IMG_2459">
   </details>
-
 
 #### RS Centre Over Turning Calculator
 
@@ -135,7 +134,7 @@ Users are able to log in using the company's Microsoft account which will also d
   <details>
   <summary>View Screenshot</summary>
   <br>
-  <img src="" width="250" alt="IMG_2448">
+  <img src="https://github.com/caizhitan/RSDE_Demo_FE/assets/150103035/f613bcff-0082-4209-bfe7-cc3973454a06" width="250" alt="IMG_2458">
   </details>
 
   
