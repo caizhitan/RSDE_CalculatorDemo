@@ -33,6 +33,22 @@ This project provides LTA RSDE Staff with a fast mobile solution for managing fi
 
 ## Authentication
 
+- **Login Landing Page**
+
+  <details>
+  <summary>View Screenshot</summary>
+  <br>
+  <img src="https://github.com/caizhitan/RSDE_Demo_FE/assets/150103035/3c1027f0-b491-4c83-89fc-ddb489be1b48" width="250" alt="IMG_Login">
+  </details>
+
+- **Login MSAL Page**
+
+  <details>
+  <summary>View Screenshot</summary>
+  <br>
+  <img src="https://github.com/caizhitan/RSDE_Demo_FE/assets/150103035/b802c248-b9b0-4f1a-bdb3-0ed270a9a5c0" width="250" alt="IMG_MSAL">
+  </details>
+
 Users are able to log in using the company's Microsoft account which will also differentiate between an Admin or General User.[^1]
 
 ## Admin Features
@@ -228,5 +244,5 @@ There are currently two calculators, this is the same on `Production`. However t
 
 
 
-[^1]: There is no user authentication for this `demo-branch`.
+[^1]: There is no user authentication for this `demo-branch`. In `Production`, LTA logo will appear on MSAL Page instead.
 [^2]: Files do not upload to LTA's AWS S3 Bucket unlike the `Production` branch.
