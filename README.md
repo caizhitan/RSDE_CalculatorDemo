@@ -26,6 +26,9 @@ This project provides LTA RSDE Staff with a fast mobile solution for managing fi
 # Pages of RSDE Portal
 > [!NOTE]
 > `demo-branch` does not contain all features. However examples below will try to mimick `Production` branch. 
+### Video Demo
+[![Video Title](https://github.com/caizhitan/RSDE_Demo_FE/assets/150103035/fa3ef514-f92d-4cc5-b1e4-2d87fcc305c7)](https://youtu.be/SdtT3c2xZfw)
+
 
 ## Authentication
 
