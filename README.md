@@ -17,10 +17,9 @@ This Portal contains 2 components.
 - Both admins and users have access to calculator features, providing essential tools directly within the application.
 
 
-## Pages of RSDE Portal
+# Pages of RSDE Portal
 > [!NOTE]
 > `demo-branch` does not contain all features. However examples below will try to mimick `Production` branch. 
-
 
 ## Authentication
 
