@@ -7,7 +7,7 @@ This Portal contains 2 components.
 - File Viewer
 - Calculators
   
-## Functionality
+## Features & Functionalities
 
 ### Authentication:
 - Users can securely log in using MSAL ([Microsoft Authentication Library](https://learn.microsoft.com/en-us/entra/identity-platform/msal-overview)).
@@ -39,7 +39,7 @@ Users are able to log in using the company's Microsoft account which will also d
   <img src="https://github.com/caizhitan/RSDE_Demo_FE/assets/150103035/ed153270-f024-41ac-a255-61dda436e088" width="250" alt="IMG_2444">
   </details>
   
-- **Uploading Files Progress**
+- **Uploading Files Confirmation**
 
   When files are uploaded sucessfully, a popup will appear.
 
@@ -62,6 +62,36 @@ Users are able to log in using the company's Microsoft account which will also d
 ## General User Features
 
 ### File Viewer
+
+- **Files on Cloud**
+
+  Sample files on the File Viewer Page.
+  
+  <details>
+  <summary>View Screenshot</summary>
+  <br>
+  <img src="https://github.com/caizhitan/RSDE_Demo_FE/assets/150103035/b19a5f95-93cc-4210-a16b-2bf2db3816a6" width="250" alt="IMG_2460">
+  </details>
+  
+- **Filter System**
+
+  User is able to filter between Excel or PDF Files for easier access.
+  
+  <details>
+  <summary>View Screenshot</summary>
+  <br>
+  <img src="https://github.com/caizhitan/RSDE_Demo_FE/assets/150103035/dc671f4b-b0cf-4577-b117-68c522747bf5" width="250" alt="IMG_2461">
+  </details>
+
+- **Search Bar**
+
+  User is able to search files for quick retrival.
+  
+  <details>
+  <summary>View Screenshot</summary>
+  <br>
+  <img src="https://github.com/caizhitan/RSDE_Demo_FE/assets/150103035/b1b695bb-4c21-4ca3-8905-5a3deecd1c8e" width="250" alt="IMG_2462">
+  </details>
 
 - **No files on Cloud**
   
