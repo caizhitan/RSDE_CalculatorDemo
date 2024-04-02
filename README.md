@@ -6,7 +6,11 @@ This Portal contains 2 components.
 
 - File Viewer
 - Calculators
-  
+
+## About the Project
+
+This project provides LTA RSDE Staff with a fast mobile solution for managing files and calculations, bypassing the tedious login process of government-issued laptops.
+
 ## Features & Functionalities
 
 ### Authentication:
