@@ -17,7 +17,7 @@ This project provides LTA RSDE Staff with a fast mobile solution for managing fi
 - Users can securely log in using MSAL ([Microsoft Authentication Library](https://learn.microsoft.com/en-us/entra/identity-platform/msal-overview)).
   
 ### Admin Features:
-- Admins have the capability to upload files. These files become available for all users to view and download, facilitating easy sharing and access to resources.
+- Admins have the capability to upload/delete files. These files become available for all users to view and download, facilitating easy sharing and access to resources.
 
 ### General User Features:
 - Both admins and users have access to calculator features, providing essential tools directly within the application.
